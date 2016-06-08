@@ -1,0 +1,7 @@
+with edited script & config file
+
+echo "Hi Mick" | ./twilio-call +447967594432
+
+with unedited script & config file
+
+echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio.conf -d +447903576677 +447967594432

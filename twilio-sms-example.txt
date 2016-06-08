@@ -1,0 +1,5 @@
+with edited script & config file
+echo "Hello Mick, from +442030956505" | ./twilio-sms -d +442030956505 +447967594432
+
+with unedited script & config file
+echo "Hello Mick, from +442030956505" | ./twilio-sms -c /usr/local/twilio-sms.conf -d +442030956505 +447967594432
