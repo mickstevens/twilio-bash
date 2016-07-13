@@ -1,7 +1,13 @@
-with edited script & config file
+echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio/bash/twilio-call.conf -d +447903576677 +447967594432
 
-echo "Hi Mick" | ./twilio-call +447967594432
+echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio/bash/twilio-call.conf -d +442030956505 +447967594432
 
-with unedited script & config file
+echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio/bash/twilio-call.conf -d +442033895400 +447967594432
 
-echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio.conf -d +447903576677 +447967594432
+echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio/bash/twilio-call.conf -d +442033897800 +447967594432
+
+echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio/bash/twilio-call.conf -d +16466796505 +16467795400
+
+echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio/bash/twilio-call.conf -d +16467795400 +16467797800
+
+echo "hello world this test message needs to be at least 12 seconds long. I repeat, this test message needs to be at least 12 seconds long. I hope it is long enough. I think it is, just about" | ./twilio-call -c /usr/local/twilio/bash/twilio-call.conf -d +16467797800 +16466796505
