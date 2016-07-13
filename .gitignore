@@ -1,2 +1,4 @@
 twilio-call.conf
 twilio-sms.conf
+call-script.txt
+sms-script.txt

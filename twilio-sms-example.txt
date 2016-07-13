@@ -1,14 +1,14 @@
-echo "July 2016 Test Message No.1 from 07903576677" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +447903576677 +447967594432
+echo "July 2016 Test Message No.1 from +**********" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +********** +**********
 
-echo "July 2016 Test Message No.2 from 02030956505" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +442030956505 +447967594432
+echo "July 2016 Test Message No.2 from +**********" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +********** +**********
 
-echo "July 2016 Test Message No.3 from 02033895400" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +442033895400 +447967594432
+echo "July 2016 Test Message No.3 from +**********" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +********** +**********
 
-echo "July 2016 Test Message No.4 from 02033897800" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +442033897800 +447967594432
+echo "July 2016 Test Message No.4 from +**********" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +********** +**********
 
-echo "July 2016 Test Message No.5 from +16466796505" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +16466796505 +16467795400
+echo "July 2016 Test Message No.5 from +**********" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +********** +**********
 
-echo "July 2016 Test Message No.6 from +16467795400" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +16467795400 +16467797800
+echo "July 2016 Test Message No.6 from +**********" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +********** +**********
 
-echo "July 2016 Test Message No.7 from +16467795400" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +16467797800 +16466796505
+echo "July 2016 Test Message No.7 from +**********" | ./twilio-sms -c /usr/local/twilio/bash/twilio-sms.conf -d +********** +**********
 
